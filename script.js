@@ -18,6 +18,11 @@ function redirect1() {
     window.location.href = "https://github.com/brennendev/reaperclient"
 }
 
+function redirect2() {
+    window.location.href = "https://www.youtube.com/@aahvmc-ny4wo"
+}
+
+
 function copyToClipboard(text) {
     const input = document.createElement('input');
     input.value = text;
