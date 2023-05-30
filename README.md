@@ -1,3 +1,3 @@
-# BrennenDev
+# Brennen's Website!
 
-just a simple github.io website (mainly for my new ct clients/mods)
+Project website, currently learning web development. 
