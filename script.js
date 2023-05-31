@@ -19,7 +19,7 @@ function redirect1() {
 }
 
 function redirect2() {
-  window.location.href = "https://github.com/brennendev/htmlxsandos/"
+  window.location.href = "https://github.com/brennendev/htmltictactoe/"
 }
 
 
