@@ -1,8 +1,8 @@
 const xtElement = document.getElementById('developer');
 const contact = document.getElementById('contact');
-var text = 'Developer';
+var text = ['Developer', 'ChatTriggers Enthusiast', 'Student', 'Malware Analyst', 'Reaper Client On TOP']
 
-const texts = ['Developer', 'ChatTriggers Enthusiast', 'Student', 'Malware Analyst', "Reaper Client On TOP"];
+const texts = ['Developer', 'ChatTriggers Enthusiast', 'Student', 'Malware Analyst', 'Reaper Client On TOP'];
 var count = 0;
 
 setInterval(() => {
